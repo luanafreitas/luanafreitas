@@ -1,16 +1,18 @@
-### Hi there 👋
+## Oi, eu sou a Luana :) 
+Entusiasta de tecnologias voltadas para testes e estudante de engenharia de software!
 
-<!--
-**luanafreitas/luanafreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ultimamente tenho me dedicado a aprender novas formas de testar.
 
-Here are some ideas to get you started:
+- 🔎 QA em Fabrica de Tecnologias Turing (FTT);
+- 📄 Cypress.io
+- 😠 JMeter;
+- 🐍 Testes automatizados em APIs;
+- 🔁 CI/CD.
+##
+<div align="center">
+  <a href="https://github.com/luanafreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanafreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanafreitas&layout=compact&langs_count=7&theme=dracula"/>
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
