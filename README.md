@@ -1,13 +1,16 @@
 ## Oi, eu sou a Luana :) 
-Entusiasta de tecnologias voltadas para testes e estudante de engenharia de software!
+Entusiasta de tecnologias voltadas para testes e Engenheira de Software!
 
-Ultimamente tenho me dedicado a aprender novas formas de testar.
+Ultimamente tenho me dedicado a testes automatizados e desenvolvimento voltado para FIVEM.
 
-- 🔎 QA em Fabrica de Tecnologias Turing (FTT);
+- 🔎 QA em SisAudCon - SAAM Auditoria;
 - 📄 Cypress.io
 - 😠 JMeter;
 - 🐍 Testes automatizados em APIs;
 - 🔁 CI/CD.
+- Front-End em HTML5, CSS3, Tailwind, JS/Vue
+- Back-End em Lua
+
 ##
 <div align="center">
   <a href="https://github.com/luanafreitas">
